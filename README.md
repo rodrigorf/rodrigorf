@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## Hey 👋, This is Rodrigo R Ferreira
 [![Gmail Badge](https://img.shields.io/badge/-rodrigorf33@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rodrigorf33@gmail.com)](mailto:rodrigorf33@gmail.com) 
