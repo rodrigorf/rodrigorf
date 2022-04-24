@@ -7,3 +7,5 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=rodrigorf&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/rodrigorf/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorf&layout=compact)](https://github.com/rodrigorf/github-readme-stats)
+
+<a href="https://app.daily.dev/rodrigorf"><img src="https://api.daily.dev/devcards/feeb6638860e46c0abbedc87b9edfd7b.png?r=kg0" width="400" alt="Rodrigo Reis Ferreira's Dev Card"/></a>
